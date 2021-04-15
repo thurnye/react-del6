@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.fighters{
+  display: flex;
+  justify-content: space-around;
+}
+
+.fighterImg{
+  border: 2px dotted red;
+  width: 150px;
+  height: 150px;
+  margin-top: 30px;
+
+}
+
+button{
+  margin-top: 30px;
+}
+
+img{
+  width: 150px;
+  height: 100px;
+}
